@@ -1,7 +1,7 @@
 ## Hey, I'm Derek! 👋
 
 ### I study CS at the University of Irvine.
-- 🔭 If you want to get to know me better, checkout my [website](derekye.com)!
+- 🔭 If you want to get to know me better, checkout my [website](www.derekye.com)!
 
 ### Languages and Tools:
 
