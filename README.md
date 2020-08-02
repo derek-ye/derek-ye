@@ -5,6 +5,8 @@ Check out my [website](https://derekye.com/)!
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="icons/python.png" />
+<img align="left" alt="C++" width="26px" src="icons/cpp.png" />
+<img align="left" alt="Java" width="26px" src="icons/java.png" />
 
 <img align="left" alt="HTML5" width="26px" src="icons/html.png" />
 <img align="left" alt="CSS3" width="26px" src="icons/css.png" />
