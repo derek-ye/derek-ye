@@ -4,6 +4,8 @@ Check out my [website](https://derekye.com/)!
 
 ### Languages and Tools:
 
+<img align="left" alt="Python" width="26px" src="icons/python.png" />
+
 <img align="left" alt="HTML5" width="26px" src="icons/html.png" />
 <img align="left" alt="CSS3" width="26px" src="icons/css.png" />
 <img align="left" alt="Sass" width="26px" src="icons/sass.png" />
@@ -13,4 +15,5 @@ Check out my [website](https://derekye.com/)!
 <img align="left" alt="Node.js" width="26px" src="icons/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="icons/sql.png" />
 <img align="left" alt="Git" width="26px" src="icons/git.png" />
+
 
