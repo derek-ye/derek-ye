@@ -1,5 +1,5 @@
 
-### I study CS at the University of Irvine.
+### I study CS at the UC Irvine.
 Check out my [website](https://derekye.com/)!
 
 ### Languages and Tools:
