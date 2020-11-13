@@ -1,6 +1,6 @@
 
 ### I study CS at UC Irvine 👋
-Check out my [website](https://derekye.com/)!
+[Website](https://derekye.com/)!
 
 ### Languages and Tools:
 
