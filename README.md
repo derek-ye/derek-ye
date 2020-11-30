@@ -2,7 +2,6 @@
 ### I study CS at UC Irvine 👋
 
 ---
-Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/python.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/cpp.png" />
