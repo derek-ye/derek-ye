@@ -1,6 +1,6 @@
 
 ## Hi! I'm Derek :)
-I study computer science and informatics at UCI.
+I study computer science and informatics at UCI. Check out some of my projects below!
 
 
 <img align="left" alt="Python" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/python.png" />
