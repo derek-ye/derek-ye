@@ -1,5 +1,6 @@
 
-### Computer science and informatics @ UC Irvine 
+## Hi! I'm Derek :)
+I study computer science and informatics at UCI.
 
 
 <img align="left" alt="Python" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/python.png" />
