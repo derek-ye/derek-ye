@@ -13,8 +13,8 @@ I study computer science and informatics at UCI.
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/react.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/nodejs.png" />
+<!-- <img align="left" alt="Node.js" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/git.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/git.png" /> -->
 
 
