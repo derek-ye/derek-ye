@@ -1,5 +1,5 @@
 
-## Hi! I'm Derek (・◡・)
+## Hey, I'm Derek!
 I study computer science and informatics at UCI. Check out some of my projects below!
 
 
