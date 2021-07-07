@@ -1,6 +1,8 @@
 
 ## Hey, I'm Derek!
-I'm a 4th year studying computer science and informatics at UCI. Here are a few of my favorite technologies:
+I'm a 4th year studying computer science and informatics at UCI.
+
+Here are a few of my favorite technologies 😊
 
 
 <img align="left" alt="Python" width="26px" src="https://github.com/derek-ye/derek-ye/blob/master/icons/python.png" />
